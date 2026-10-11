@@ -1,0 +1,88 @@
+# Politika zasebnosti – Osvoji Slovenijo
+
+**Zadnja posodobitev: 11. oktober 2026**
+
+Osvoji Slovenijo spoštuje zasebnost svojih uporabnikov. Ta politika zasebnosti pojasnjuje, katere podatke aplikacija uporablja, kako se obdelujejo in kje se hranijo.
+
+## 1. O aplikaciji
+
+Osvoji Slovenijo je mobilna aplikacija, namenjena raziskovanju Slovenije, odkrivanju slovenskih občin in spremljanju napredka pri raziskovanju države.
+
+Aplikacija omogoča interaktivno uporabo zemljevida Slovenije in beleženje napredka uporabnika.
+
+## 2. Zbiranje osebnih podatkov
+
+Osvoji Slovenijo ne zahteva registracije ali ustvarjanja uporabniškega računa.
+
+Aplikacija ne zahteva osebnih podatkov, kot so ime, priimek, elektronski naslov ali telefonska številka, za uporabo osnovnih funkcij.
+
+## 3. Lokacijski podatki
+
+Če uporabnik omogoči dostop do lokacije, lahko aplikacija uporablja lokacijske podatke naprave za prikaz položaja uporabnika na zemljevidu oziroma druge funkcije, povezane z raziskovanjem Slovenije.
+
+Dostop do lokacije je odvisen od dovoljenj, ki jih uporabnik odobri v nastavitvah naprave.
+
+Uporabnik lahko dovoljenje za dostop do lokacije kadar koli spremeni ali prekliče.
+
+Lokacijski podatki se ne prodajajo tretjim osebam.
+
+## 4. Lokalno shranjevanje podatkov
+
+Aplikacija lahko na uporabnikovi napravi lokalno shranjuje:
+
+- napredek pri odkrivanju slovenskih občin,
+- podatke o obiskanih oziroma označenih občinah,
+- uporabniške nastavitve,
+- podatke, potrebne za pravilno delovanje aplikacije.
+
+Ti podatki se uporabljajo za zagotavljanje funkcionalnosti aplikacije.
+
+Podatki se lahko odstranijo z brisanjem podatkov aplikacije ali odstranitvijo aplikacije, odvisno od nastavitev naprave in morebitnega varnostnega kopiranja.
+
+## 5. Zemljevidi in zunanji viri
+
+Osvoji Slovenijo uporablja geografske podatke za prikaz zemljevida Slovenije in slovenskih občin.
+
+Če aplikacija dostopa do zunanjih spletnih storitev, lahko ponudniki teh storitev prejmejo običajne tehnične podatke, kot je IP-naslov, skladno s svojimi politikami zasebnosti.
+
+## 6. Analitika in oglaševanje
+
+Osvoji Slovenijo ne uporablja oglaševalskih sistemov ali analitičnih orodij za sledenje uporabnikom, če je to skladno z dejansko objavljeno različico aplikacije.
+
+Če bodo takšne storitve dodane v prihodnosti, bo politika zasebnosti ustrezno posodobljena.
+
+## 7. Deljenje in prodaja podatkov
+
+Osvoji Slovenijo ne prodaja osebnih podatkov uporabnikov.
+
+Podatki se ne posredujejo tretjim osebam za oglaševalske namene.
+
+## 8. Varnost podatkov
+
+Prizadevamo si uporabljati razumne tehnične in organizacijske ukrepe za zaščito podatkov ter omejiti obdelavo podatkov na tisto, kar je potrebno za delovanje aplikacije.
+
+## 9. Zasebnost otrok
+
+Aplikacija je namenjena splošni uporabi, vključno z uporabniki, ki želijo spoznavati geografijo Slovenije.
+
+Aplikacija ne zahteva, da otroci posredujejo osebne podatke za uporabo osnovnih funkcij.
+
+## 10. Pravice uporabnikov
+
+Uporabniki lahko upravljajo dovoljenja aplikacije v nastavitvah svoje naprave.
+
+Lokalno shranjene podatke lahko odstranijo z brisanjem podatkov aplikacije ali odstranitvijo aplikacije, ob upoštevanju morebitnih varnostnih kopij.
+
+Za vprašanja glede obdelave osebnih podatkov lahko uporabniki stopijo v stik z razvijalcem.
+
+## 11. Spremembe politike zasebnosti
+
+Ta politika zasebnosti se lahko posodobi ob spremembah funkcionalnosti aplikacije ali veljavnih zahtev glede varstva podatkov.
+
+Posodobljena različica bo objavljena na tej spletni strani.
+
+## 12. Kontakt
+
+Za vprašanja glede zasebnosti ali aplikacije Osvoji Slovenijo nas lahko kontaktirate na:
+
+**stritkotv@gmail.com**
